@@ -138,11 +138,11 @@ MonoBehaviour:
   boxCollider: {fileID: 4479420741778465786}
   scaleSpeed: 1
   moveDuration: 0.5
-  spriteRenderer: {fileID: 2510542398817247466}
   inPlace: 0
   correctPlace: 0
   canPress: 0
   isSelected: 0
+  spriteRenderer: {fileID: 2510542398817247466}
   id: 0
   placeId: 0
 --- !u!212 &2510542398817247466
